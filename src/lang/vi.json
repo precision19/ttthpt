@@ -1,0 +1,9 @@
+{
+  "require_login": "Vui lòng đăng nhập để tiếp tục.",
+  "logout": "Tài khoản của bạn đã bị đăng xuất.",
+  "content_not_found": "Nội dung không tồn tại.",
+  "user_blocked": "Tài khoản của bạn đã bị khóa, vui lòng liên hệ chăm sóc khách hàng.",
+  "re_login": "Bui lòng đăng nhập lại.",
+  "session_not_found": "Phiên làm việc không tồn tại",
+  "kick": "Bạn đã bị kick"
+}
